@@ -14,8 +14,10 @@ Arctic Ice Studio for the creation of the [Nord][nordtheme] theme.
 
 ### Check these cool projects:
 [Nord][nord] - An arctic, north-bluish color palette.
+
 [ImageGoNord][ign] - A tool that can convert your rgb images to nordtheme palette.
-.[Avogadrio][avogadrio] - Worship your favorite molecule by setting it as your wallpaper.
+
+[Avogadrio][avogadrio] - Worship your favorite molecule by setting it as your wallpaper.
 
 [nord]: https://github.com/arcticicestudio/nord
 [nordtheme]: https://www.nordtheme.com/
