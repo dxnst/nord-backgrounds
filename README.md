@@ -7,7 +7,7 @@ An icy-cool ❄️ collection of wallpapers for your nord rice. WIP.
 - Support for 4K (3840x2160) and FHD (1920x1080) resolutions.
 
 ### License
-Check each folder for the corresponding license.
+Check the sources.txt file for each directory. Wallpapers are licensed under the same license as the source vector file.
 
 ### Credits
 Arctic Ice Studio for the creation of the [Nord][nordtheme] theme.
