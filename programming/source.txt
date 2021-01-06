@@ -1,0 +1,18 @@
+c https://commons.wikimedia.org/wiki/File:The_C_Programming_Language_logo.svg
+dart https://commons.wikimedia.org/wiki/File:Dart-logo-wordmark.svg
+git https://commons.wikimedia.org/wiki/File:Git-logo-white.svg
+go-gopher https://commons.wikimedia.org/wiki/File:Go_gopher_favicon.svg
+haskell https://www.haskell.org/img/haskell-logo.svg
+hugo https://commons.wikimedia.org/wiki/File:Logo_of_Hugo_the_static_website_generator.svg
+java-duke https://commons.wikimedia.org/wiki/File:Duke_(Java_mascot)_waving.svg
+julia https://commons.wikimedia.org/wiki/File:Julia_prog_language.svg
+lua https://commons.wikimedia.org/wiki/File:Lua-Logo.svg
+musl-libc https://commons.wikimedia.org/wiki/File:Musl_libc.svg
+musl-libc http://musl.libc.org/
+php https://commons.wikimedia.org/wiki/File:PHP-logo.svg
+python https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
+ruby https://commons.wikimedia.org/wiki/File:Devicon-ruby-plain-wordmark.svg
+vim https://commons.wikimedia.org/wiki/File:Icon-Vim.svg
+zig https://commons.wikimedia.org/wiki/File:Zig_logo_2020.svg
+
+font https://github.com/blobject/agave/
