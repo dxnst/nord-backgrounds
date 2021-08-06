@@ -1,4 +1,5 @@
 c https://commons.wikimedia.org/wiki/File:The_C_Programming_Language_logo.svg
+c-sharp https://iconduck.com/icons/27153/c-sharp-c
 dart https://commons.wikimedia.org/wiki/File:Dart-logo-wordmark.svg
 git https://commons.wikimedia.org/wiki/File:Git-logo-white.svg
 go-gopher https://commons.wikimedia.org/wiki/File:Go_gopher_favicon.svg
