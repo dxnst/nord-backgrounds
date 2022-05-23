@@ -10,6 +10,7 @@ lua https://commons.wikimedia.org/wiki/File:Lua-Logo.svg
 musl-libc https://commons.wikimedia.org/wiki/File:Musl_libc.svg
 musl-libc http://musl.libc.org/
 php https://commons.wikimedia.org/wiki/File:PHP-logo.svg
+powershell https://github.com/PowerShell/PowerShell/blob/master/assets/ps_fluent_design_384.svg
 python https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg
 ruby https://commons.wikimedia.org/wiki/File:Devicon-ruby-plain-wordmark.svg
 vim https://commons.wikimedia.org/wiki/File:Icon-Vim.svg
